@@ -1,0 +1,2 @@
+# safelinkaji
+File js
